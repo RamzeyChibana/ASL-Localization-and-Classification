@@ -7,10 +7,10 @@ Localization-and-Classification using keras and tensorflow
 
 
 ## How it works
-### Classification:
-#### we used Categorical crossentropy loss function and softmax to classify between 26 class
-### Loacalisation: 
-#### we used Binary crossentropy loss function and sigmoid on 4 the output layer to predict the bboxes after normalized them between [0-1] (like using regression)
+## Classification:
+### we used Categorical crossentropy loss function and softmax to classify between 26 class
+## Loacalisation: 
+### we used Binary crossentropy loss function and sigmoid on 4 the output layer to predict the bboxes after normalized them between [0-1] (like using regression)
 <br>
 
 ## accuracy
