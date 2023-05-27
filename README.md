@@ -16,5 +16,5 @@ Localization-and-Classification using keras and tensorflow
 ## accuracy
 ### Val_loss  = 1.08
 ### accuracy score = 0.8 
-### F1 score =0.68
+### F1 score =0.8
 
